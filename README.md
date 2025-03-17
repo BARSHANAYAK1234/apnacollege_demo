@@ -1,4 +1,5 @@
 # apnacollege_demo
-This  is my first git repository
+
+This is my first git repository
 <br>
-Author-Barsha Nayak
+Author-Barsha \_@Nayak
